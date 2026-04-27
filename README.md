@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hello dear, I am Gabriel Lopes!
 
-<!--
-**gleallopes/gleallopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Brief Story
+I started working at 12 years old as electrician helper along with my father. I learned to be resilient, that if you want something just don't make excuses.
+I've always liked to study, and now at 23, I decided to change my career to work with something that I
+love and have been doing as a hobby: technology.
 
-Here are some ideas to get you started:
+<br>🇧🇷 I live in Brazil.</br>
+<br>🇬🇧🇩🇪🇻🇦 Fluent in English, German and Latin.</br>
+<br>⚽🥋 Love Football and JiuJitsu.</br>
+<br>☕ Currently studying backend in Java.</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## 🚀 Skills
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,eclipse,aws,docker,mysql)](https://skillicons.dev)
+
+## 🚀 Contact Me
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabriel-lopes-b706373a2)
+[![email](https://skillicons.dev/icons?i=gmail)](mailto:gleallopes17@gmail.com)
+
+---
+
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gleallopes&show_icons=true)
