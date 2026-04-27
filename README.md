@@ -13,10 +13,10 @@ love and have been doing as a hobby: technology.
 
 ---
 
-## 🚀 Skills
+## 🎖️ Skills
 [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,eclipse,aws,docker,mysql)](https://skillicons.dev)
 
-## 🚀 Contact Me
+## 🔮 Contact Me
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabriel-lopes-b706373a2)
 [![email](https://skillicons.dev/icons?i=gmail)](mailto:gleallopes17@gmail.com)
 
