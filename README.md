@@ -5,12 +5,12 @@ My Name is <b>Gabriel Lopes</b>. I started working at 12 years old as electricia
 I've always liked to study, and now at 23, I decided to change my career to work with something that I
 love and have been doing as a hobby: programming.
 
-<br>🇧🇷 I live in Brazil.</br>
-<br>🇬🇧 Fluent in English.</br>
-<br>🇩🇪🇻🇦 Learning German and Latin.</br>
-<br>⚽🥋 Love Football and JiuJitsu.</br>
-<br>☕ Currently studying backend in Java.</br>
-<br>👇Look to what I can do.</br>
+<br>I live in 🇧🇷.</br>
+<br>🇬🇧🇩🇪 Speaker.</br>
+<br>🇻🇦 Learner.</br>
+<br>I like ⚽ and 🥋(bjj).</br>
+<br>Backend developer in ☕.</br>
+<br>Look 👇 my projects.</br>
 
 
 ---
