@@ -15,8 +15,8 @@ love and have been doing as a hobby: programming.
 
 ---
 
-## 🎖️ Skills
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,eclipse,aws,docker,mysql)](https://skillicons.dev)
+## 🎖️Stack
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,idea,aws,docker,mysql)](https://skillicons.dev)
 
 ## 🔮 Contact Me
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabriel-lopes-b706373a2)
