@@ -1,22 +1,18 @@
 ## Hello World!
 
 ### Brief Story
-My Name is <b>Gabriel Lopes</b>. I started working at 12 years old as electrician helper along with my father. I learned to be resilient, that if you want something just don't make excuses.
-I've always liked to study, and now at 23, I decided to change my career to work with something that I
-love and have been doing as a hobby: programming.
+My name is Ruan Gabriel Lopes, 24 yo, Brazil-RS. Currently I work as an electrician and <br> I'm pretending to shift my career to software development because I've been programming as a hobby for a long time, <br> but now I took it seriously.
 
-<br>I live in 🇧🇷.</br>
-<br>🇬🇧🇩🇪 Speaker.</br>
-<br>🇻🇦 Learner.</br>
-<br>I like ⚽ and 🥋(bjj).</br>
-<br>Backend developer in ☕.</br>
-<br>Look 👇 my projects.</br>
+<br> Born and raised  in 🇧🇷. </br>
+<br> I also can speak 🇬🇧 🇩🇪 . </br>
+<br> Love to discover how to make things happen. </br>
+<br> Java | Python | React | C++ | Arduino </br>
 
 
 ---
 
-## 🎖️Stack
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,idea,aws,docker,mysql)](https://skillicons.dev)
+## 🎖️Technologies
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,python,cpp,react,ts,arduino,linux,docker,mysql,postgres)](https://skillicons.dev)
 
 ## 🔮 Contact Me
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabriel-lopes-b706373a2)
