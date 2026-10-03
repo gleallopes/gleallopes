@@ -11,10 +11,10 @@ My name is Ruan Gabriel Lopes, 24 yo, Brazil-RS. Currently I work as an electric
 
 ---
 
-## 🎖️Technologies
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,python,cpp,react,ts,arduino,linux,docker,mysql,postgres)](https://skillicons.dev)
+## 🧰 Technologies
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,python,cpp,react,ts,arduino,linux,docker,mysql,postgres,ai)](https://skillicons.dev)
 
-## 🔮 Contact Me
+## 🌎 Contact Me
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabriel-lopes-b706373a2)
 [![email](https://skillicons.dev/icons?i=gmail)](mailto:gleallopes17@gmail.com)
 
