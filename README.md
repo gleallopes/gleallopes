@@ -6,21 +6,40 @@ I'm a self-taught software developer from Brazil focused on building reliable, m
 
 My primary focus is **Java backend development**, with hands-on experience building applications <br> with **Spring Boot, SQL databases, REST APIs, Docker, and automated testing**.
 
-I'm particularly interested in **IoT, digital twins, algorithms, and the intersection between software and the physical world**.
+I'm particularly interested in **distributed systems, IoT, digital twins, algorithms, and the intersection between software and the physical world**.
 
 
 ---
 
-### Main Stack
-[![Main Stack](https://skillicons.dev/icons?i=java,spring,docker,arduino,postgres)](#main-stack)
+## 🛠️ Main Stack
+### Backend
+- Java
+- Spring Boot
+- Maven
+- REST APIs
+- JUnit
+
+### Frontend
+- React
+- Typescript
+
+### Database & Infrastructure
+- PostgreSQL
+- Docker
+- MQTT / Mosquitto
+
+### Other
+- Python
+- C++
+- Arduino
 
 ---
 
 ### Featured Project
 
-**GreenhouseDigitalTwin**
+**Greenhouse Digital-Twin**
 
-A software and hardware project that models a physical mini greenhouse as a digital twin.
+A full-stack IoT system that models a physical mini greenhouse as a digital twin.
 
 The project explores bidirectional communication between the physical prototype and its digital representation,<br> including environmental telemetry, validation, and system state synchronization.
 
@@ -28,23 +47,24 @@ The project explores bidirectional communication between the physical prototype 
 
 ---
 
-### Currently Learning
+### 📚 Currently Improving
 
 - Software architecture and system design
 - Algorithms and data structures
 - Distributed systems
-- IoT and digital twin architectures
+- IoT architecture
 - Advanced Java and Spring Boot
 
 ---
 
 ### Languages
-- Portuguese br — Native
-- English — Professionally
+- Portuguese — Native
+- English — Professional working proficiency
 
 ---
 
-### 📫Contact
-I'm interested in **software development opportunities, particularly backend and Java positions**, including international and remote opportunities.<br>
-[📧 gleallopes@outlook.com](mailto:gleallopes@outlook.com)
+### 💼 Open to Opportunities
+I'm looking for my first professional opportunity as a software developer, <br> with a particular interest in **java backend roles, remote positions and international teams**.<br>
+
+📧[gleallopes@outlook.com](mailto:gleallopes@outlook.com)
 
