@@ -1,25 +1,50 @@
-## Hello World!
+# Gabriel Lopes
 
-### Brief Story
-My name is Ruan Gabriel Lopes, 24 yo, Brazil-RS. Currently I work as an electrician and <br> I'm pretending to shift my career to software development because I've been programming as a hobby for a long time, <br> but now I took it seriously.
+### Self-Taught Software Developer | Java & Spring Boot
 
-<br> Born and raised  in 🇧🇷. </br>
-<br> I also can speak 🇬🇧 🇩🇪 . </br>
-<br> Love to discover how to make things happen. </br>
-<br> Java | Python | React | C++ | Arduino </br>
+I'm a self-taught software developer from Brazil focused on building reliable, maintainable software <br>  and continuously improving my understanding of computer science and software engineering.
 
+My primary focus is **Java backend development**, with hands-on experience building applications <br> with **Spring Boot, SQL databases, REST APIs, Docker, and automated testing**.
 
----
+I'm particularly interested in **IoT, digital twins, algorithms, and the intersection between software and the physical world**.
 
-## 🧰 Technologies
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,python,cpp,react,ts,arduino,linux,docker,mysql,postgres,ai)](https://skillicons.dev)
-
-## 🌎 Contact Me
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gabriel-lopes-b706373a2)
-[![email](https://skillicons.dev/icons?i=gmail)](mailto:gleallopes17@gmail.com)
 
 ---
 
-## ⭐ GitHub Stats
+### Main Stack
+[![Main Stack](https://skillicons.dev/icons?i=java,spring,docker,arduino,postgres)](#main-stack)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gleallopes&show_icons=true)
+---
+
+### Featured Project
+
+**GreenhouseDigitalTwin**
+
+A software and hardware project that models a physical mini greenhouse as a digital twin.
+
+The project explores bidirectional communication between the physical prototype and its digital representation,<br> including environmental telemetry, validation, and system state synchronization.
+
+[-> View the project](https://github.com/gleallopes/GreenhouseDigitalTwin)
+
+---
+
+### Currently Learning
+
+- Software architecture and system design
+- Algorithms and data structures
+- Distributed systems
+- IoT and digital twin architectures
+- Advanced Java and Spring Boot
+
+---
+
+### Languages
+- Portuguese br — Native
+- English — Professionally
+
+---
+
+### 📫Contact
+I'm interested in **software development opportunities, particularly backend and Java positions**, including international and remote opportunities.<br>
+[📧 gleallopes@outlook.com](mailto:gleallopes@outlook.com)
+
